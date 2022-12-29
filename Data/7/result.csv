@@ -1,0 +1,11 @@
+timeStamp;elapsed;label;responseCode;responseMessage;threadName;dataType;success;failureMessage;bytes;sentBytes;grpThreads;allThreads;URL;Latency;IdleTime;Connect
+1,67225E+12;638;HTTP Request;200;OK;Thread Group 1-2;text;true;;1274;124;2;2;https://petstore.swagger.io/;633;0;483
+1,67225E+12;2407;HTTP Request;200;OK;Thread Group 1-1;text;true;;1274;124;2;2;https://petstore.swagger.io/;2401;0;2243
+1,67225E+12;549;HTTP Request;200;OK;Thread Group 1-3;text;true;;1274;124;1;1;https://petstore.swagger.io/;549;0;422
+1,67225E+12;577;HTTP Request;200;OK;Thread Group 1-4;text;true;;1274;124;1;1;https://petstore.swagger.io/;577;0;447
+1,67225E+12;532;HTTP Request;200;OK;Thread Group 1-5;text;true;;1274;124;1;1;https://petstore.swagger.io/;532;0;410
+1,67225E+12;566;HTTP Request;200;OK;Thread Group 1-6;text;true;;1274;124;1;1;https://petstore.swagger.io/;566;0;436
+1,67225E+12;568;HTTP Request;200;OK;Thread Group 1-7;text;true;;1274;124;1;1;https://petstore.swagger.io/;568;0;439
+1,67225E+12;535;HTTP Request;200;OK;Thread Group 1-8;text;true;;1274;124;1;1;https://petstore.swagger.io/;534;0;410
+1,67225E+12;530;HTTP Request;200;OK;Thread Group 1-9;text;true;;1274;124;1;1;https://petstore.swagger.io/;530;0;409
+1,67225E+12;536;HTTP Request;200;OK;Thread Group 1-10;text;true;;1274;124;1;1;https://petstore.swagger.io/;536;0;412
